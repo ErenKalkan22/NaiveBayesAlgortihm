@@ -186,5 +186,5 @@ message=Your review text here
 - Eren Kalkan
 
 ## License
-
-This project is for educational purposes as part of Algorithm Analysis coursework. 
+- Efe Eren Yağcı
+- Eren Kalkan
