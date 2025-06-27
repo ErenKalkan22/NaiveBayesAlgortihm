@@ -44,7 +44,7 @@ NaiveBayes/
 ```bash
 pip install flask pandas scikit-learn numpy matplotlib
 ```
-### DATASET
+### Dataset
 IMDB Dataset of 50K Movie Reviews
 
 ### Alternative Installation
