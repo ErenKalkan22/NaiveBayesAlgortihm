@@ -180,9 +180,10 @@ message=Your review text here
 
 ## Authors
 
-- Efe Eren Yağcı
 - Eren Kalkan
+- Efe Eren Yağcı
 
 ## License
 
-This project is for educational purposes as part of Algorithm Analysis coursework. 
+- Eren Kalkan
+- Efe Eren Yağcı
